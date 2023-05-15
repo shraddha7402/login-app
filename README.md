@@ -3,8 +3,13 @@
 Prerequisites
 
 1)Node.js installed on your machine
+
 2)A MySQL database set up and running
-3)A Google Firebase account with a project set up and Firebase Admin SDK added to your 4)Node.js project
+
+3)A Google Firebase account with a project set up and Firebase Admin SDK added to your 
+
+4)Node.js project
+
 5)A basic understanding of React, Node.js and MySQL
 
 Step 1: Set up the project
